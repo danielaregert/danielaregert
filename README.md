@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielaregert
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on everybody about somebody
+- 💞️ I’m looking to collaborate on everybody about something
 - 📫 How to reach me: danielaregert@gmail.com
 
 <!---
