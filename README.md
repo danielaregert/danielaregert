@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielaregert
 - 👀 I’m interested in technology
-- 🌱 I work in web development
+- 🌱 I work in DOMO as a Frontend Pod Leader
 - 📫 How to reach me: danielaregert@gmail.com
 
 <!---
