@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela Regert
 - 👀 I’m interested in technology
-- 🌱 I work in DOMO as a Frontend Lead
+- 🌱 Frontend Lead at DOMO
 - 📫 How to reach me out: danielaregert@gmail.com
 
 <!---
